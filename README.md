@@ -10,7 +10,6 @@ This repository contains the deliverables for a security risk analysis conducted
 - [Methodology](#methodology)
 - [Identified Risks](#identified-risks)
 - [Deliverables](#deliverables)
-- [How to Use This Repository](#how-to-use-this-repository)
 - [Author](#author)
 
 ---
