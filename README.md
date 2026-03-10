@@ -28,7 +28,7 @@ The assessment followed a black-box approach using Postman to simulate real-worl
 
 - **Postman** – For sending HTTP requests and analyzing responses
 - **GitHub** – For version control and documentation hosting
-- **PDF** – For the final report
+- **Canva** – For the final report
 
 ---
 
